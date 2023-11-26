@@ -1,9 +1,9 @@
 <img src="Screenshot from 2023-11-26 19-59-54.png">
 
-# Hash-Identifier
+# Hash Identifier
 <p>Mengidentifikasi jenis hash yang digunakan pada teks atau data yang terenkripsi</p>
 
-<h3>Download</h3>
+<h3>Download Hash Identifier</h3>
 <a href="https://fierza-dev.github.io/hash.zip">Download Now!</a>
 
 <h3>Installation</h3>
