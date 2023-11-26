@@ -11,7 +11,7 @@
   <li>Unzip File</li>
   <li>buka terminal</li>
   <li>ketik di terminal pip install -r requirements.txt</li>
-  <li><Done</li>
+  <li>Done</li>
 </ol>
 
 <h3>How To Use</h3>
